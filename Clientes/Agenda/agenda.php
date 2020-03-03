@@ -39,7 +39,7 @@
             <th scope="col">Fecha</th>
             <th scope="col">Horario</th>
             <th scope="col">Ciudad</th>
-            <th scope="col">Agendar</th>
+            <th scope="col">Agendar citas</th>
         </tr>
         </thead>
     </table>
